@@ -9,3 +9,8 @@ Module 1) Personal Information: -  https://youtube.com/shorts/Pxvx_qNsTEY?si=s8g
  first video:  https://youtube.com/shorts/VeEi1DgkW5E?feature=share
  second video: https://youtube.com/shorts/K3APdP9zznk?feature=share
  Third video: https://youtube.com/shorts/FvvHRaIqDio?feature=share
+
+# HR Questions : 
+ first video : https://youtube.com/shorts/0ZPv8_9pKR8?feature=share
+ second video : https://youtube.com/shorts/7P72zZsmACU?feature=share
+ third video : https://youtube.com/shorts/s_17JyJnWJ8?feature=share
