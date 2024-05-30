@@ -11,6 +11,10 @@ Module 1) Personal Information: -  https://youtube.com/shorts/Pxvx_qNsTEY?si=s8g
  Third video: https://youtube.com/shorts/FvvHRaIqDio?feature=share
 
 # HR Questions : 
- first video : https://youtube.com/shorts/0ZPv8_9pKR8?feature=share
- second video : https://youtube.com/shorts/7P72zZsmACU?feature=share
- third video : https://youtube.com/shorts/s_17JyJnWJ8?feature=share
+ first video: https://youtube.com/shorts/0ZPv8_9pKR8?feature=share
+ second video: https://youtube.com/shorts/7P72zZsmACU?feature=share
+ third video: https://youtube.com/shorts/s_17JyJnWJ8?feature=share
+
+ # Module 7) Confidence Building (Activity Session) - Language Barrier, Impromptu Speech - IT Policies Briefing
+ PPT link : https://docs.google.com/presentation/d/15XY1LZSfrMbiIZgVicvbvZlF90r9ZhOe/edit?usp=drive_link&ouid=117312930385214502437&rtpof=true&sd=true
+
