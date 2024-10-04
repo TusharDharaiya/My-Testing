@@ -18,6 +18,7 @@
 
  Resume Link:- https://drive.google.com/file/d/1iHg4Pr759dAZ_qw4FFEMxCzinovrz-0m/view?usp=sharing
 
+ ISTQB Certificate Link : https://drive.google.com/file/d/153sKJCaPt7D2e91zKxTpdYjanFhxEKeZ/view?usp=sharing
  # Module 7) Confidence Building (Activity Session) - Language Barrier, Impromptu Speech - IT Policies Briefing
  PPT link: https://docs.google.com/presentation/d/15XY1LZSfrMbiIZgVicvbvZlF90r9ZhOe/edit?usp=drive_link&ouid=117312930385214502437&rtpof=true&sd=true
 
